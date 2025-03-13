@@ -31,4 +31,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran-akella&show_icons=true&locale=en&layout=compact" alt="kiran-akella" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kiran-akella&theme=dark "My-github-streak")
