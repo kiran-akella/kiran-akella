@@ -9,17 +9,17 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kiran-akella](https://github.com/kiran-akella)
+- 👨‍💻 All of my projects are available at [https://github.com/kiran-akella](Github)
 
-- 📝 I regularly write articles on [https://medium.com/@kiran_kireeti](https://medium.com/@kiran_kireeti)
+- 📝 I regularly write articles on [https://medium.com/@kiran_kireeti](Medium)
 
 - 💬 Ask me about **Kubernetes,AWS**
 
 - 📫 How to reach me **kirankireeti1@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/kiran-akella](www.linkedin.com/in/kiran-akella)
+- 📄 Know about my experiences [www.linkedin.com/in/kiran-akella](kiran-akella)
 
-- ⚡ Fun fact **I am probably the person who can take a chaotic, manually-deployed system and transform it into a smooth, automated, well-oiled machine. And, if something breaks, I will be the first to jump in, with my cool-headed troubleshooting skills and my toolkit have scripts, containers, and monitoring tools, making everything right again—like a tech superhero, but with a laptop instead of a cape! 🦸‍♂️💻🚀**
+- ⚡ Fun fact:  **I am probably the person who can take a chaotic, manually-deployed system and transform it into a smooth, automated, well-oiled machine. And, if something breaks, I will be the first to jump in, with my cool-headed troubleshooting skills and my toolkit have scripts, containers, and monitoring tools, making everything right again—like a tech superhero, but with a laptop instead of a cape! 🦸‍♂️💻🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
