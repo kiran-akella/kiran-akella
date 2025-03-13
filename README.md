@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Linkedin](www.linkedin.com/in/kiran-akella "Kiran-akella")
 
-- ⚡ Fun fact **I am probably the person who can take a chaotic, manually-deployed system and transform it into a smooth, automated, well-oiled machine. And, if something breaks, I will be the first to jump in, with my cool-headed troubleshooting skills and my toolkit have scripts, containers, and monitoring tools, making everything right again—like a tech superhero, but with a laptop instead of a cape! 🦸‍♂️💻🚀**
+- ⚡ Fun fact **As a DevOps engineer, I am the master of turning chaos into order, automating processes to make everything faster, smoother, and more reliable—like a tech magician behind the scenes! 🎩⚙️ 🦸‍♂️💻🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
