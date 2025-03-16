@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Kubernetes,AWS**
 
-- 📫 How to reach me [Gmail](kirankireeti1@gmail.com "Kiran-akella")
+- 📫 How to reach me [Email](how_to_reach_kiran.md "How to reach me?")
 
 - 📄 Know about my experiences [Linkedin](www.linkedin.com/in/kiran-akella "Kiran-akella")
 
