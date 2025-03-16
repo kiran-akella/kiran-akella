@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/kiran-akella "Kiran-akella")
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@kiran_kireeti "Kiran-akella")
+- 📝 I regularly write articles on [Medium](https://medium.com/@kiran_kireeti "Kiran-akella") and [Linkedin_blogs] (https://www.linkedin.com/in/kiran-akella/recent-activity/all/ "recent linkedin blogs of kiran akella")
 
 - 💬 Ask me about **Kubernetes,AWS**
 
