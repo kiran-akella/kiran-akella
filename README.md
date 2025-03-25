@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiran-akella" alt="kiran-akella" /></a> </p>
 
-- 🔭 I’m currently working on **IOT devices in a private repo**
+- 🔭 I’m currently working on **IOT devices for home automation**
 
 - 🌱 I’m currently learning **Java Springboot,MongoDB**
 
