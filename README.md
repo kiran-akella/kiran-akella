@@ -17,7 +17,7 @@
 
 - 📫 How to reach me [Email](how_to_reach_kiran.md "How to reach me?")
 
-- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/kiran-akella "Kiran-akella")
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/kiran-akella/ "Kiran-akella")
 
 - ⚡ Fun fact **As a DevOps engineer, I am the master of turning chaos into order, automating processes to make everything faster, smoother, and more reliable—like a tech magician behind the scenes! 🎩⚙️ 🦸‍♂️💻🚀**
 
