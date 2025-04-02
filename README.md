@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Akella</h1>
 <h3 align="center">A passionate DevSecOps Engineer from Hyderabad, India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiran-akella" alt="kiran-akella" /></a> </p>
-
 - 🔭 I’m currently working on **IOT devices for home automation**
 
 - 🌱 I’m currently learning **Java Springboot,MongoDB**
