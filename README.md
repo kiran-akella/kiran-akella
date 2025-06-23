@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **IOT devices for home automation**
 
-- 🌱 I’m currently learning **Java Springboot,MongoDB**
+- 🌱 I’m currently building expertise on **Fast API, SQlite**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
